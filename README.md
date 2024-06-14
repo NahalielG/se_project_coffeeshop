@@ -1,4 +1,4 @@
-# se_library_landing_page
+# se_coffee_shop
   
   
   
@@ -8,6 +8,11 @@
   
   feautures like a form, iframe, and animations. The form element is a very important feauture of a website in todays landscape of web design forms are everywhere.With this project I was able to really 
   
-  dive deep into the makeup and features of a form (input fields,labels,type values,etc).  In addition I was able to implent youtube tutorial videos on the landing page using iframe. In closing I was 
+  dive deep into the makeup and features of a form (input fields,labels,type values,etc).  In addition I was able to implent youtube tutorial videos on the landing page using iframe. Also I was 
   
-  able to implement annimations like a pulse , and smooth gradient trasnsitions to really bring life to the landing page!
+  able to implement annimations like a pulse , and smooth gradient trasnsitions to really bring life to the landing page. In conclusion I plan to continue to grow and develop my skills as a software engineer by using this project 
+
+  to practice my java script skills!  Below is a link to the coffeeshop site I created!
+
+
+ https://pablobetheplug.github.io/se_project_coffeeshop/
